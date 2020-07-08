@@ -1,22 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-07-17 08:26:28 -0400
-categories: jekyll update
+title: "처음 쓰는 블로그 글"
+date: 2020-07-17
+categories: today_
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+처음으로 깃을 이용하여 블로그를 만들었다.
+처음 목표는 일주일에 5commit 을 목표로 하였으며 Python과 Java와 공부를 할 생각이다.
+단기 목표
+1. 일주일에 5 commit
+2. 정보처리기사 필기공부
+3. 토익공부
