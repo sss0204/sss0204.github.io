@@ -1,5 +1,5 @@
 ---
-title: "java 기본 개념 정리"
+title: "java 기본 개념 정리 (혼공ver.1)"
 date: 2020-07-09
 categories: _java
 ---
