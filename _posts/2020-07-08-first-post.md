@@ -1,6 +1,6 @@
 ---
 title: "처음 쓰는 블로그 글"
-date: 2020-07-17
+date: 2020-07-08
 categories: today_
 ---
 
